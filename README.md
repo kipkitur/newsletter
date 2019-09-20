@@ -9,6 +9,3 @@ Your Time Is Valuable
 No need to spend the whole day looking for the right template for your ecommerce shop needs. Spend your time looking for the perfect images and replace the default links on the template.
 
 Spend more time optimizing your campaigns, running A/B tests and looking for the right products.
-
-
-https://github.com/kipkitur/newsletter/blob/master/templates/images/newsletter.png
