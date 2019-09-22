@@ -19,5 +19,5 @@ Your Time Is Valuable:
 
 Check out the wireframe below to have a better understanding of the layout.
 
-![Check out the wireframe below to have a better understanding of the layout.](https://github.com/kipkitur/newsletter/blob/master/templates/images/newsletter.png)
+![Check out the wireframe below to have a better understanding of the layout.](https://github.com/kipkitur/newsletter/blob/master/images/newsletter.png)
 
