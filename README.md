@@ -16,6 +16,8 @@ Your Time Is Valuable:
 * Spend your time looking for the perfect images and replace the default links on the template.
 
  ## Spend more time optimizing your campaigns, running A/B tests and looking for the right products.
+ 
+[Here is a live preview!](https://kipkitur.github.io/newsletter/)
 
 Check out the wireframe below to have a better understanding of the layout.
 
